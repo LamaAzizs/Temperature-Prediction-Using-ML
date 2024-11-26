@@ -4,7 +4,7 @@ The goal of this project is to use machine learning techniques to analyze weathe
 
 In this project, I used weather data from Riyadh to build a model for predicting temperatures using machine learning techniques, specifically linear regression. After cleaning and transforming the data, we trained the model using various weather-related variables such as pressure, wind speed, humidity, and cloud cover. The model was then used to predict temperature, with performance evaluated using metrics like R² and RMSE.
 
-# Libraries Used:
+## Libraries Used:
 
 Pandas
 NumPy
