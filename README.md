@@ -12,12 +12,12 @@ Matplotlib
 Seaborn
 scikit-learn
 
-# Results:
+## Results:
 
 The model showed good results with high R² values (close to 1), indicating its ability to predict temperatures accurately.
 Graphs were displayed to understand performance, including Actual vs Predicted and Distribution of Errors.
 
-# How to Use:
+## How to Use:
 
 Download the data in a CSV file.
 Run the code to analyze the data and train the model.
