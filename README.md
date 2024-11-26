@@ -1,5 +1,4 @@
 # Temperature-Prediction-Using-ML
-The goal of this project is to use machine learning techniques to analyze weather data in Riyadh and predict temperature based on several weather-related factors such as pressure, wind speed, humidity, and cloud cover. A linear regression model is used to achieve this goal.
 
 
 In this project, I used weather data from Riyadh to build a model for predicting temperatures using machine learning techniques, specifically linear regression. After cleaning and transforming the data, we trained the model using various weather-related variables such as pressure, wind speed, humidity, and cloud cover. The model was then used to predict temperature, with performance evaluated using metrics like R² and RMSE.
